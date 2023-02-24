@@ -1,7 +1,7 @@
 # CrossLingual-BioNER
 Data Augmentation and Transfer Learning for Cross-lingual Named Entity Recognition in the Biomedical Domain
 
-The Folders contain the final datasets to train a Named Entity Recognition system using the CRAFT dataset. It includes the following entities:
+The folders contain the final datasets for the trainning of Named Entity Recognition systems using the CRAFT dataset. The CRAFT dataset includes the following entities:
 - Protein
 - Chemical
 - Taxon
